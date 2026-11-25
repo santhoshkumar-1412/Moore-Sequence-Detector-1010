@@ -1,4 +1,4 @@
-# Sequence Detector 1010 using Verilog HDL
+# Moore Sequence Detector 1010 using Verilog HDL
 
 <p align="center">
   <b>RTL Design | Moore Finite State Machine | Functional Verification</b>
